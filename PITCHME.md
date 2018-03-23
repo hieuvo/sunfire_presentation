@@ -6,8 +6,8 @@ Log-based monitoring tool. Also provides other standard monitoring functions, li
 
 ### Other systems
 
-- Xflushwill be shutdown soon
-- Alimonitoring
+- Xflush
+- Alimonitor
 
 ---
 
