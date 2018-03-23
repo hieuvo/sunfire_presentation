@@ -1,6 +1,6 @@
 # Sunfire
 
-Log-based monitoring tool. Also provides other standard monitoring functions, like OS, Web, JVM, GC and middleware. |
+Log-based monitoring tool. Also provides other standard monitoring functions, like OS, Web, JVM, GC and middleware |
 
 ---
 
