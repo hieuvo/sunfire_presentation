@@ -14,10 +14,10 @@ Log-based monitoring tool. Also provides other standard monitoring functions, li
 ### Sunfire's advantages
 
 - All-round real-time monitoring:
-	Provides monitoring capabilities from a variety of perspectives, including equipment, applications, and services. Second-grade key indicators, common indicators-minutes, high reliability, high timeliness, and low latency.
+	Provides monitoring capabilities from a variety of perspectives. Minute to second level monitoring, high reliability, high timeliness, and low latency.
 
 - Flexible alarm rules:
-	The alarm rules can be set according to the characteristics of the business characteristics, time period, and degree of importance, so as to achieve no false positives or omissions.
+	According to business characteristics, time period, and degree of importance, so as to achieve no false positives or omissions.
 
 - Simple management:
 	Millions of equipment monitoring and deployment capabilities of minutes, automatic recovery of failures, cluster scalability
@@ -46,7 +46,7 @@ Log-based monitoring tool. Also provides other standard monitoring functions, li
 
 - Overview: general information of monitored applications, healthcheck, history of alarms, etc
 
-- Application: basic system information including (CPU, load, disk, memory, etc), number of errors, number of system calls, number of database calls, sql consumption time, etc
+- Application: basic system information including (CPU, load, disk, memory, etc), errors, system calls, database calls, sql consumption time, etc
 
 - Custom: customized monitoring configuration (can create your custom dashboard for specific metrics)
 
@@ -60,7 +60,7 @@ Log-based monitoring tool. Also provides other standard monitoring functions, li
 
 ### Kinds of monitoring configuration
 
-- Monitor at minute to second level (alarm rules aren't applicable for second level config)
+- Monitor at minute to second level
 - Single and multiple dimensions of metrics
 
 ![Flux Explained](images/a.png)
