@@ -1,16 +1,16 @@
 # Sunfire
 
-- Log-based monitoring tool. Also provides other standard monitoring functions, like OS, Web, JVM, GC and middleware |
+- Log-based monitoring tool |
 - http://x.alibaba-inc.com/ |
 
 ---
 
 ### Other systems
 
-- Xflush | (http://xflush.alibaba-inc.com/) |
+- Xflush http://xflush.alibaba-inc.com/ |
 - Alimonitor |
-- Eagleeye | (http://eagleeye.alibaba-inc.com/) |
-- Powerlog | (http://powerlog.alibaba-inc.com/) |
+- Eagleeye http://eagleeye.alibaba-inc.com/ |
+- Powerlog http://powerlog.alibaba-inc.com/ |
 
 ---
 
