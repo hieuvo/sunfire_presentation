@@ -7,35 +7,23 @@
 
 ### Other systems
 
-- Xflush (http://xflush.alibaba-inc.com/) |
+- Xflush | (http://xflush.alibaba-inc.com/) |
 - Alimonitor |
-- Eagleeye (http://eagleeye.alibaba-inc.com/) |
-- Powerlog (http://powerlog.alibaba-inc.com/) |
+- Eagleeye | (http://eagleeye.alibaba-inc.com/) |
+- Powerlog | (http://powerlog.alibaba-inc.com/) |
 
 ---
 
 ### Sunfire's advantages
 
-- All-round real-time monitoring |
+- Real-time monitoring |
 - Flexible alarm rules |
 - Custom and convenient configuration |
 - Visualization |
 - Low resource consumption |
 - Storage |
 - Self-monitoring, self-run maintenance |
-- Unitization |
 	
----
-
-### Sunfire's modules
-
-- Overview |
-- Application |
-- Custom |
-- Alarm |
-- Plugin |
-- Resource |
-
 ---
 
 ### Kinds of monitoring configuration
@@ -49,5 +37,5 @@
 
 ### Demo
 
-- How to create checkout funnel monitoring
+- How to create monitor config of order flow
 - How to setup alarm rule
