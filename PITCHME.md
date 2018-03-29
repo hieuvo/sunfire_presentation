@@ -1,17 +1,16 @@
 # Sunfire
 
 - Log-based monitoring tool. Also provides other standard monitoring functions, like OS, Web, JVM, GC and middleware |
+- http://x.alibaba-inc.com/ |
 
 ---
 
 ### Other systems
 
-- Xflush |
+- Xflush (http://xflush.alibaba-inc.com/) |
 - Alimonitor |
-- Eagleeye |
-- Oculus |
-- Space-based |
-- Prism |
+- Eagleeye (http://eagleeye.alibaba-inc.com/) |
+- Powerlog (http://powerlog.alibaba-inc.com/) |
 
 ---
 
@@ -50,5 +49,5 @@
 
 ### Demo
 
-- How to create a monitor config
-- How to setup alarm rules
+- How to create checkout funnel monitoring
+- How to setup alarm rule
