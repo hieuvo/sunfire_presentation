@@ -7,10 +7,46 @@
 
 ### Other systems
 
+- Xflush |
+- Alimonitor |
+- Eagleeye |
+- Powerlog |
+
 - Xflush http://xflush.alibaba-inc.com/ |
-- Alimonitor https://m.alibaba-inc.com |
+- Alimonitor https://m.alibaba-inc.com/ |
 - Eagleeye http://eagleeye.alibaba-inc.com/ |
 - Powerlog http://powerlog.alibaba-inc.com/ |
+
+
+---
+
+#### Other systems - Xflush
+
+- http://xflush.alibaba-inc.com/ |
+- ![](images/xflush.png) |
+
+---
+
+#### Other systems - Alimonitor
+
+- https://m.alibaba-inc.com/ |
+- ![](images/alimonitor.png) |
+- Powerlog http://powerlog.alibaba-inc.com/ |
+
+---
+
+#### Other systems - Eagleeye
+
+- https://eagleeye.alibaba-inc.com/ |
+- ![](images/eagleeye.png) |
+- Powerlog http://powerlog.alibaba-inc.com/ |
+
+---
+
+#### Other systems - Powerlog
+
+- https://powerlog.alibaba-inc.com/ |
+- ![](images/powerlog.png) |
 
 ---
 
@@ -22,17 +58,7 @@
 - Visualization |
 - Low resource consumption |
 - Storage |
-- Self-monitoring, self-run maintenance |
 	
----
-
-### Kinds of monitoring configuration
-
-- Monitor at minute to second level |
-- Single and multiple dimensions of metrics |
-
-![Flux Explained](images/a.png)
-
 ---
 
 ### Demo
