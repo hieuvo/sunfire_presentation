@@ -25,7 +25,6 @@
 
 - https://m.alibaba-inc.com/ |
 - ![](images/alimonitor.png) |
-- Powerlog http://powerlog.alibaba-inc.com/ |
 
 ---
 
@@ -33,7 +32,6 @@
 
 - https://eagleeye.alibaba-inc.com/ |
 - ![](images/eagleeye.png) |
-- Powerlog http://powerlog.alibaba-inc.com/ |
 
 ---
 
